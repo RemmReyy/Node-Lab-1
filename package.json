@@ -1,0 +1,29 @@
+{
+  "name": "node-lab-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RemmReyy/Node-Lab-1.git"
+  },
+  "author": "Bohdan Remeniuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RemmReyy/Node-Lab-1/issues"
+  },
+  "homepage": "https://github.com/RemmReyy/Node-Lab-1#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
